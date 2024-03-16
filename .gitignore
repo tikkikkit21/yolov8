@@ -1,0 +1,6 @@
+.vscode
+dataset/
+research/
+.env
+*.onnx
+runs
