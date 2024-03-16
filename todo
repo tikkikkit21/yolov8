@@ -1,0 +1,4 @@
+- Look into quantizing during training
+  - Can help avoid losing accuracy
+- Use ONNX Runtime instead of OpenCV
+  - Could be faster
